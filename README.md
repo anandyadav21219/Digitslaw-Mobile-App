@@ -20,4 +20,4 @@ Using the right tools, I made sure the app was easy to use and looked good on an
 <a href="https://play.google.com/store/apps/details?id=com.digitslaw.android" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height ="70px"></a>
 
 
-<a href="https://apps.apple.com/us/app/digitslaw-app/id1662474582" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg" height ="50px"></a>
+<a href="https://apps.apple.com/us/app/digitslaw-app/id1662474582" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg" height ="60px"></a>
