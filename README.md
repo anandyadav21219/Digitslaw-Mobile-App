@@ -5,7 +5,8 @@ The all-in-one law practice software for law firms of all sizes. Easy to use cas
 
 ## Demo app
 
-https://wearefootify.club/
+(https://play.google.com/store/apps/details?id=com.digitslaw.android)
+(https://apps.apple.com/us/app/digitslaw-app/id1662474582)
 
 ## Screenshots
 
