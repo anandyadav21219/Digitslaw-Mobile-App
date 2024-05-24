@@ -23,3 +23,31 @@ Using the right tools, I made sure the app was easy to use and looked good on an
 <a href="https://apps.apple.com/us/app/digitslaw-app/id1662474582" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg" height ="60px"></a>
 
 </div>
+
+<div class="row">
+  <div class="column">
+    <img src="[img_snow.jpg](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+</div>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
