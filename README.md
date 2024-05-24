@@ -17,6 +17,6 @@ Using the right tools, I made sure the app was easy to use and looked good on an
 
 ## Demo app
 
-<a href="https://play.google.com/store/apps/details?id=com.digitslaw.android"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height ="10px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.digitslaw.android"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height ="100px"></a>
 
 https://apps.apple.com/us/app/digitslaw-app/id1662474582
