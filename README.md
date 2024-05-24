@@ -9,7 +9,7 @@ https://wearefootify.club/
 
 ## Screenshots
 
-![App Screenshot](https://wearefootify.club/img/promo-overview-v2.png)
+![App Screenshot](https://github.com/anandyadav21219/Digitslaw-Mobile-Application/blob/main/Digitslaw%20app%20promo.png?raw=true)
 
 
 ## What I work on app
